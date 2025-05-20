@@ -8,7 +8,7 @@
 
 <hr>
 
-<h2>📦 Proje Yapısı</h2>
+<h2> Proje Yapısı</h2>
 
 <pre>
 deneme/
@@ -18,14 +18,14 @@ deneme/
     └── server.js
 </pre>
 
-<h2>🛠 Kullanılan Teknolojiler</h2>
+<h2> Kullanılan Teknolojiler</h2>
 <ul>
   <li><a href="https://nodejs.org/">Node.js</a></li>
   <li><a href="https://expressjs.com/">Express.js</a></li>
   <li><a href="https://www.docker.com/">Docker</a></li>
 </ul>
 
-<h2>⚙️ Kurulum ve Çalıştırma</h2>
+<h2> Kurulum ve Çalıştırma</h2>
 
 <ol>
   <li><strong>Projeyi klonlayın</strong>:
@@ -47,7 +47,7 @@ cd mini-node-docker</code></pre>
   </li>
 </ol>
 
-<h2>🧪 Ne Beklemeliyim?</h2>
+<h2>Ne Beklemeliyim?</h2>
 <p>Tarayıcıda aşağıdaki mesaj görünmelidir:</p>
 <pre><code>Welcome to my app</code></pre>
 
